@@ -8,7 +8,7 @@
 Práticas com uso de markdown no README.
 
 # Algoritmo - Conceito
-## O que é o algorimto? 
+## O que é o algoritmo? 
 
 O algoritmo é uma sequência de instruções **finitas e precisas**, com início, meio e fim, que dizem ao computador o que fazer na execução de determinada função. Um algoritmo conta com uma entrada (_input_) e saída (_output_) de instruções.
 
@@ -28,7 +28,7 @@ As formas geométricas são padronizadas: os quadrados definem as ações (coman
 
 Pode-se usar uma maneira mais simples que é o **portugol** (português estruturado):
 
-__Ex.: Trocar lâmpada:__
+__Ex.: 💡 Trocar lâmpada:__
 
 - lâmpada não funciona;
 - verificar lâmpada rosqueada;
