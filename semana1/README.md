@@ -47,7 +47,7 @@ Esta é uma lógica básica, o computador possui algoritmos mais complexos.
 
 [Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos](https://pt.b-ok.lat/book/18336700/bccf55)
 
-## Autora
+### Autora
 Pâm Santos 🐺
 
-Desenvolvido com 💙
+Desenvolvido com muito 💙 
